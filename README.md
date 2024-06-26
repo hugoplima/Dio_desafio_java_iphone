@@ -1,11 +1,9 @@
 # Dio_desafio_java_iphone
 
 <li>
-::marker
 Implementa UML do iphone
 </li>
 <li>
-::marker
 Implementa código Java para desafio
 </li>
 
